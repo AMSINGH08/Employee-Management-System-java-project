@@ -1,0 +1,8 @@
+
+Employee ID:123
+Employee Name     :Ansu
+Father's Name     :ak
+Employee Contact  :121
+Email Information :123
+Employee position :133
+Employee Salary   :`2`1
